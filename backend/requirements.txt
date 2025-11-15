@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-multipart
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+pydantic
+pillow
+pymupdf
+pdf2image
+python-dotenv
+requests
+google-generativeai
